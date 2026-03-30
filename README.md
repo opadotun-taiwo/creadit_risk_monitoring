@@ -8,7 +8,7 @@ Data was sourced from a MySQL database and visualized using Power BI to generate
 
 ---
 ### Overview
-![Overview]([Overview.png](https://github.com/opadotun-taiwo/creadit_risk_monitoring/blob/main/Overview.png))
+![Overview](https://raw.githubusercontent.com/opadotun-taiwo/creadit_risk_monitoring/main/Overview.png)
 
 ## 🎯 Objective
 
