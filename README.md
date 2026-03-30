@@ -8,7 +8,7 @@ Data was sourced from a MySQL database and visualized using Power BI to generate
 
 ---
 ### Overview
-![Overview](images/overview.png)
+![Overview]([images/overview.png](https://github.com/opadotun-taiwo/creadit_risk_monitoring/blob/main/Overview.png))
 
 ## 🎯 Objective
 
@@ -79,13 +79,13 @@ The loan application feature **should be continued**.
 ## 📈 Dashboard Preview
 
 ### Insights
-![Insights](images/insights.png)
+![Insights]([images/insights.png](https://github.com/opadotun-taiwo/creadit_risk_monitoring/blob/main/insights.png))
 
 ### Details
-![Details](images/details.png)
+![Details](images/[details.png](https://github.com/opadotun-taiwo/creadit_risk_monitoring/blob/main/details.png))
 
 ### Automated Report
-![Automated Report](images/automation.png)
+![Automated Report]([images/automation.png](https://github.com/opadotun-taiwo/creadit_risk_monitoring/blob/main/automated report.png))
 
 ---
 
